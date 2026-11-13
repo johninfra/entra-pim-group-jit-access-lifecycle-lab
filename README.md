@@ -60,8 +60,6 @@ Upload the **redacted** screenshots into the `screenshots/` directory with these
 | 7 | User and group identified as removal audit targets | ![Removal targets](screenshots/07-deactivation-targets.png) |
 | 8 | Successful MS-PIM membership removal audit event | ![Membership removal](screenshots/08-successful-group-membership-removal.png) |
 
-> Evidence images are uploaded separately by the repository owner. Until the files are present in `screenshots/`, their image links will not render.
-
 ## Verification results
 
 | Check | Result |
